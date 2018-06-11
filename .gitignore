@@ -1,5 +1,9 @@
 __pycache__/
 images
+.DS_Store
+*.mp4
+out
+*.gz
 models/models.zip
 models/relu1_1
 models/relu2_1

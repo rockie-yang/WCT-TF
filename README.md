@@ -27,6 +27,7 @@ Optionally:
 
 * OpenCV with contrib modules (for `webcam.py`)
   * MacOS install http://www.pyimagesearch.com/2016/12/05/macos-install-opencv-3-and-python-3-5/
+  * Easiest way on Mac is by install Anaconda then run `conda install -c menpo opencv`
   * Linux install http://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/
 * ffmpeg (for video stylization)
 
